@@ -1,3 +1,5 @@
+![Banner](https://github.com/ctechcontinentals/.github/blob/main/images/banner.png)
+
 # Welcome to C-Tech Continentals 🌟
 
 #### Overview
